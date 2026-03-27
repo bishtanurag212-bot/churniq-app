@@ -6,3 +6,4 @@ plotly
 matplotlib
 seaborn
 openpyxl
+streamlit-option-menu
